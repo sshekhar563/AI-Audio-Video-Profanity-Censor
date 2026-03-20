@@ -1,0 +1,61 @@
+# Profanity / Abusive / Violent Words List
+# One word or phrase per line
+# Lines starting with # are comments
+# Categories: [P] Profanity, [A] Abusive, [V] Violent
+
+# === Profanity ===
+fuck
+shit
+damn
+ass
+bitch
+bastard
+crap
+dick
+piss
+slut
+whore
+cock
+
+# === Abusive / Hate Speech ===
+idiot
+stupid
+moron
+retard
+loser
+dumb
+pathetic
+worthless
+useless
+trash
+scum
+disgusting
+
+# === Violent / Threatening ===
+kill
+murder
+die
+death
+shoot
+stab
+attack
+destroy
+bomb
+explode
+torture
+threat
+assault
+rape
+abuse
+strangle
+execute
+
+# === Confidential / Sensitive ===
+# Add context-specific confidential terms below
+password
+secret
+classified
+confidential
+ssn
+social security
+credit card

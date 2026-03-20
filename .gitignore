@@ -1,0 +1,42 @@
+# Python
+ffmpeg.exe
+ffprobe.exe
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project
+output/*.wav
+output/*.mp4
+output/*.mp3
+output/*.mkv
+output/*.avi
+output/*.json
+!output/.gitkeep
+samples/*.wav
+samples/*.mp4
+samples/*.mp3
+!samples/.gitkeep
+
+# Whisper models cache
+*.pt
