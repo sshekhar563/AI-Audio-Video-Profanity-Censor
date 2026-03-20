@@ -7,8 +7,6 @@
 
 An AI-powered command-line tool that automatically detects and censors **profanity, abusive, violent, and confidential content** from audio and video files. Built using OpenAI's Whisper for speech-to-text transcription with **word-level timestamps** for precise, frame-accurate censorship.
 
-> 🎯 **Built as a proof-of-concept for [OpenVINO GSoC Project #39](https://github.com/openvinotoolkit/openvino/wiki/GSoC) — Automated Video and Audio Redacting/Censorship Pipeline**
-
 ---
 
 ## 🏗️ Architecture
